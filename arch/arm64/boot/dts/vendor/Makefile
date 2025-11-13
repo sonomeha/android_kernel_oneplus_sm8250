@@ -10,20 +10,20 @@ vendor := $(srctree)/$(src)
 #subdir-y += qcom
 # SM8250
 # 8
-subdir-y += 19821
+# subdir-y += 19821
 # 8 tmo
-subdir-y += 19855
+# subdir-y += 19855
 # 8 pro
 subdir-y += 19811
 # 8T
-subdir-y += 19805
+# subdir-y += 19805
 # 8T tmo
-subdir-y += 20809
+# subdir-y += 20809
 # 9R
-subdir-y += 20828
+# subdir-y += 20828
 # SM7250
 # Nord
-subdir-y += 20801
+# subdir-y += 20801
 # Nord CE
-subdir-y += 20813
+# subdir-y += 20813
 #endif
